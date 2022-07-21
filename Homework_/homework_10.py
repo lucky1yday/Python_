@@ -1,4 +1,4 @@
-# 2140666102 李永杰
+
 shop = {'牛奶': 65, '面包': 15, '可乐': 39, '饼干': 45, '糖果': 24, '水果': 35.8}
 shop['可乐'] = 60
 sum = 0
@@ -10,14 +10,14 @@ print("master commmit")
 print("master commmit")
 print("master commmit")
 print("master commmit")
-# # 2140666102 李永杰
+
 
 # seq_cardNo = tuple(["610" + "%03d" % a for a in range(1, 101)])
 #
 # dict_card = dict.fromkeys(seq_cardNo, "000000")
 #
 # print("100个银行卡及密码如下所示：", dict_card)
-# # 2140666102 李永杰
+
 # dict_pricetable = {"牛奶": 5.5, "方便面": 4, "糖果": 12, "咖啡": 6,
 #
 #                    "饼干": 6, "火腿肠": 5, "奶茶": 5}
