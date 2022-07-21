@@ -7,6 +7,7 @@ for i in shop.values():
 print("您购买6件物品，共计：%.2f" % sum)
 print()
 print("master commmit")
+print("master commmit")
 # # 2140666102 李永杰
 
 # seq_cardNo = tuple(["610" + "%03d" % a for a in range(1, 101)])
